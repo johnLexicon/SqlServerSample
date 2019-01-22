@@ -1,0 +1,11 @@
+/Users/johnlundgren/dev/core/SqlServerSample/bin/Debug/netcoreapp2.2/SqlServerSample.deps.json
+/Users/johnlundgren/dev/core/SqlServerSample/bin/Debug/netcoreapp2.2/SqlServerSample.runtimeconfig.json
+/Users/johnlundgren/dev/core/SqlServerSample/bin/Debug/netcoreapp2.2/SqlServerSample.runtimeconfig.dev.json
+/Users/johnlundgren/dev/core/SqlServerSample/bin/Debug/netcoreapp2.2/SqlServerSample.dll
+/Users/johnlundgren/dev/core/SqlServerSample/bin/Debug/netcoreapp2.2/SqlServerSample.pdb
+/Users/johnlundgren/dev/core/SqlServerSample/obj/Debug/netcoreapp2.2/SqlServerSample.csprojAssemblyReference.cache
+/Users/johnlundgren/dev/core/SqlServerSample/obj/Debug/netcoreapp2.2/SqlServerSample.csproj.CoreCompileInputs.cache
+/Users/johnlundgren/dev/core/SqlServerSample/obj/Debug/netcoreapp2.2/SqlServerSample.AssemblyInfoInputs.cache
+/Users/johnlundgren/dev/core/SqlServerSample/obj/Debug/netcoreapp2.2/SqlServerSample.AssemblyInfo.cs
+/Users/johnlundgren/dev/core/SqlServerSample/obj/Debug/netcoreapp2.2/SqlServerSample.dll
+/Users/johnlundgren/dev/core/SqlServerSample/obj/Debug/netcoreapp2.2/SqlServerSample.pdb
